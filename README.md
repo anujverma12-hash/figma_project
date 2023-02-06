@@ -1,2 +1,5 @@
 # figma_project
-Hello Sir, Thank you for giving me this Opportunity, I make the project you gave it to me, I used my knowledge whatever I have knowledge I used in this project.
+Hello Sir, Thank you for giving me this Opportunity.
+I make the driver details page that is showing the driver details.
+And second  driver Registration form is there.
+
